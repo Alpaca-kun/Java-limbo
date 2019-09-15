@@ -13,4 +13,4 @@ javac -d <directory of main class> <main class>
 ~~~
 
 ## Reference
-[w3schools - Java Packages] (https://www.w3schools.com/java/java_packages.asp)
+[w3schools Java Packages] (https://www.w3schools.com/java/java_packages.asp)
