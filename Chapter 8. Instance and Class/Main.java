@@ -13,6 +13,11 @@ public class Main {
         hero.name = "Christian";
         hero.hp = 100;
 
+        // Born in this world. Cleric!
+        Cleric cleric = new Cleric();
+
+        cleric.name = "Christina";
+        
         /*
         System.out.println("A new hero called " + hero.name + " borned in this world!");
 
@@ -35,6 +40,11 @@ public class Main {
         
         // Run out, Monster!   
         hero.slip();
+
+        cleric.hp -= 5;
+        cleric.selfAid();
+        cleric.pray(2);
+
         matango1.fled();
         matango2.fled();
         hero.fled();
