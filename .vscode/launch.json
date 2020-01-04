@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cleric",
+            "request": "launch",
+            "mainClass": "Cleric",
+            "projectName": "Java-limbo_9560e391"
+        }
+    ]
+}
